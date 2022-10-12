@@ -1,0 +1,31 @@
+GET  https://62d0e2051cc14f8c088fc83d.mockapi.io/produto
+content-type: application/json
+
+####
+post https://62d0e2051cc14f8c088fc83d.mockapi.io/produto
+Content-Type: application/json
+
+{
+    "Nome": "goibada",
+    "email": "samuel.sfreitas17@gmail.com",
+    "Descrição": "Descriçao"
+    
+    
+}
+
+GET  https://62d0e2051cc14f8c088fc83d.mockapi.io/produto
+content-type: application/json
+
+####
+post https://62d0e2051cc14f8c088fc83d.mockapi.io/produto
+Content-Type: application/json
+
+{
+    "Nome": "Queijo",
+    "email": "samuel.sfreitas@gmail.com",
+    "Descrição": "Preescrição"
+    
+    
+}
+
+
